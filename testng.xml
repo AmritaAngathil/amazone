@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+<listeners>
+<listener class-name="com.amazone1.qa.base.ExtentReportListener"/>
+</listeners>
+  <test thread-count="5" name="Test" parallel="tests">
+    <classes>
+      <class name="com.amazone1.qa.testcases.ProductPageTest"/>
+      <class name="com.amazone1.qa.testcases.SearchPageTest"/>
+      <class name="com.amazone1.qa.testcases.PaymentPageTest"/>
+      <class name="com.amazone1.qa.testcases.LoginPageTest"/>
+      <class name="com.amazone1.qa.testcases.HomePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
