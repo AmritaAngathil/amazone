@@ -8,48 +8,19 @@
     <classes>
       <class name="com.amazone1.qa.testcases.ProductPageTest">
         <methods>
-          <include name="productNameVerification"/>
           <include name="productPriceVerification"/>
-          <include name="userNameVerification"/>
           <include name="setUp"/>
           <include name="tearDown"/>
           <include name="purchasingProduct"/>
         </methods>
       </class> <!-- com.amazone1.qa.testcases.ProductPageTest -->
-      <class name="com.amazone1.qa.testcases.LoginPageTest">
-        <methods>
-          <include name="verifyPageTitleTest"/>
-          <include name="loginProcess"/>
-          <include name="tearDown"/>
-          <include name="setUp"/>
-        </methods>
-      </class> <!-- com.amazone1.qa.testcases.LoginPageTest -->
-      <class name="com.amazone1.qa.testcases.HomePageTest">
-        <methods>
-          <include name="verifyPageTitleTest"/>
-          <include name="setUp"/>
-          <include name="tearDown"/>
-          <include name="login"/>
-        </methods>
-      </class> <!-- com.amazone1.qa.testcases.HomePageTest -->
       <class name="com.amazone1.qa.testcases.PaymentPageTest">
         <methods>
           <include name="paymentProcess"/>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="invalid"/>
-          <include name="popupModalWindow"/>
         </methods>
       </class> <!-- com.amazone1.qa.testcases.PaymentPageTest -->
-      <class name="com.amazone1.qa.testcases.SearchPageTest">
-        <methods>
-          <include name="veifyUserName"/>
-          <include name="searchItem"/>
-          <include name="setUp"/>
-          <include name="verifyPageTitle"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.amazone1.qa.testcases.SearchPageTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -20,7 +20,7 @@ public class SearchPage extends TestBase{
 	@FindBy(xpath="//input[@id='nav-search-submit-button']")
 	WebElement submitSearch;
 
-	@FindBy(xpath="//*[contains(text(),'Lloyd 272 L 2 Star Inverter Frost Free Double Door Refrigerator (GLFF282EDST1PB, Dark Steel)')]")
+	@FindBy(xpath="//*[contains(text(),'Samsung 324 L 2 Star Inverter Frost Free Double Door Refrigerator(RT34M5538S8/HL, Elegant Inox, Convertible)')]")
 	WebElement selectProduct;
 
 
