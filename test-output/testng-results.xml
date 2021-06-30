@@ -2,176 +2,176 @@
 <testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="516093" started-at="2021-06-30T14:08:45Z" finished-at="2021-06-30T14:17:21Z">
+  <suite name="Suite" duration-ms="592985" started-at="2021-06-30T14:58:48Z" finished-at="2021-06-30T15:08:40Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="516093" started-at="2021-06-30T14:08:45Z" finished-at="2021-06-30T14:17:21Z">
+    <test name="Test" duration-ms="592985" started-at="2021-06-30T14:58:48Z" finished-at="2021-06-30T15:08:40Z">
       <class name="com.amazone1.qa.testcases.ProductPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="setUp" is-config="true" duration-ms="41635" started-at="2021-06-30T19:38:45Z" finished-at="2021-06-30T19:39:26Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="setUp" is-config="true" duration-ms="41874" started-at="2021-06-30T20:28:48Z" finished-at="2021-06-30T20:29:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="userNameVerification()[pri:1, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="userNameVerification" duration-ms="8546" started-at="2021-06-30T19:39:26Z" finished-at="2021-06-30T19:39:35Z">
+        <test-method status="PASS" signature="userNameVerification()[pri:1, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="userNameVerification" duration-ms="11743" started-at="2021-06-30T20:29:29Z" finished-at="2021-06-30T20:29:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- userNameVerification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="tearDown" is-config="true" duration-ms="904" started-at="2021-06-30T19:39:35Z" finished-at="2021-06-30T19:39:36Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="tearDown" is-config="true" duration-ms="1663" started-at="2021-06-30T20:29:42Z" finished-at="2021-06-30T20:29:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="setUp" is-config="true" duration-ms="42795" started-at="2021-06-30T19:41:33Z" finished-at="2021-06-30T19:42:15Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="setUp" is-config="true" duration-ms="48651" started-at="2021-06-30T20:31:54Z" finished-at="2021-06-30T20:32:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="productNameVerification()[pri:2, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="productNameVerification" duration-ms="8981" started-at="2021-06-30T19:42:15Z" finished-at="2021-06-30T19:42:24Z">
+        <test-method status="PASS" signature="productNameVerification()[pri:2, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="productNameVerification" duration-ms="9828" started-at="2021-06-30T20:32:43Z" finished-at="2021-06-30T20:32:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productNameVerification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="tearDown" is-config="true" duration-ms="864" started-at="2021-06-30T19:42:25Z" finished-at="2021-06-30T19:42:26Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="tearDown" is-config="true" duration-ms="1851" started-at="2021-06-30T20:32:53Z" finished-at="2021-06-30T20:32:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="setUp" is-config="true" duration-ms="39227" started-at="2021-06-30T19:44:46Z" finished-at="2021-06-30T19:45:25Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="setUp" is-config="true" duration-ms="46416" started-at="2021-06-30T20:35:37Z" finished-at="2021-06-30T20:36:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="productPriceVerification()[pri:3, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="productPriceVerification" duration-ms="46" started-at="2021-06-30T19:45:25Z" finished-at="2021-06-30T19:45:25Z">
+        <test-method status="PASS" signature="productPriceVerification()[pri:3, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="productPriceVerification" duration-ms="42" started-at="2021-06-30T20:36:23Z" finished-at="2021-06-30T20:36:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- productPriceVerification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="tearDown" is-config="true" duration-ms="1078" started-at="2021-06-30T19:45:33Z" finished-at="2021-06-30T19:45:34Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="tearDown" is-config="true" duration-ms="1880" started-at="2021-06-30T20:36:36Z" finished-at="2021-06-30T20:36:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="setUp" is-config="true" duration-ms="39295" started-at="2021-06-30T19:46:25Z" finished-at="2021-06-30T19:47:04Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="setUp" is-config="true" duration-ms="43765" started-at="2021-06-30T20:37:40Z" finished-at="2021-06-30T20:38:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="purchasingProduct()[pri:4, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="purchasingProduct" duration-ms="15858" started-at="2021-06-30T19:47:04Z" finished-at="2021-06-30T19:47:20Z">
+        <test-method status="PASS" signature="purchasingProduct()[pri:4, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="purchasingProduct" duration-ms="14994" started-at="2021-06-30T20:38:23Z" finished-at="2021-06-30T20:38:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- purchasingProduct -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="tearDown" is-config="true" duration-ms="908" started-at="2021-06-30T19:47:20Z" finished-at="2021-06-30T19:47:21Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.ProductPageTest@3d0f8e03]" name="tearDown" is-config="true" duration-ms="1762" started-at="2021-06-30T20:38:39Z" finished-at="2021-06-30T20:38:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.amazone1.qa.testcases.ProductPageTest -->
       <class name="com.amazone1.qa.testcases.LoginPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="setUp" is-config="true" duration-ms="17466" started-at="2021-06-30T19:41:02Z" finished-at="2021-06-30T19:41:19Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="setUp" is-config="true" duration-ms="15846" started-at="2021-06-30T20:31:21Z" finished-at="2021-06-30T20:31:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="PageTitleVerification()[pri:1, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="PageTitleVerification" duration-ms="70" started-at="2021-06-30T19:41:19Z" finished-at="2021-06-30T19:41:19Z">
+        <test-method status="PASS" signature="PageTitleVerification()[pri:1, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="PageTitleVerification" duration-ms="72" started-at="2021-06-30T20:31:37Z" finished-at="2021-06-30T20:31:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PageTitleVerification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="tearDown" is-config="true" duration-ms="770" started-at="2021-06-30T19:41:20Z" finished-at="2021-06-30T19:41:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="tearDown" is-config="true" duration-ms="850" started-at="2021-06-30T20:31:38Z" finished-at="2021-06-30T20:31:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="setUp" is-config="true" duration-ms="13209" started-at="2021-06-30T19:44:05Z" finished-at="2021-06-30T19:44:19Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="setUp" is-config="true" duration-ms="19584" started-at="2021-06-30T20:34:46Z" finished-at="2021-06-30T20:35:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginProcess()[pri:2, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="loginProcess" duration-ms="6757" started-at="2021-06-30T19:44:19Z" finished-at="2021-06-30T19:44:25Z">
+        <test-method status="PASS" signature="loginProcess()[pri:2, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="loginProcess" duration-ms="6333" started-at="2021-06-30T20:35:06Z" finished-at="2021-06-30T20:35:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginProcess -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="tearDown" is-config="true" duration-ms="834" started-at="2021-06-30T19:44:29Z" finished-at="2021-06-30T19:44:30Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.LoginPageTest@2698dc7]" name="tearDown" is-config="true" duration-ms="1646" started-at="2021-06-30T20:35:18Z" finished-at="2021-06-30T20:35:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.amazone1.qa.testcases.LoginPageTest -->
       <class name="com.amazone1.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="setUp" is-config="true" duration-ms="10644" started-at="2021-06-30T19:41:20Z" finished-at="2021-06-30T19:41:31Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="setUp" is-config="true" duration-ms="12900" started-at="2021-06-30T20:31:39Z" finished-at="2021-06-30T20:31:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="PageTitleVerification()[pri:1, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="PageTitleVerification" duration-ms="54" started-at="2021-06-30T19:41:31Z" finished-at="2021-06-30T19:41:31Z">
+        <test-method status="PASS" signature="PageTitleVerification()[pri:1, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="PageTitleVerification" duration-ms="284" started-at="2021-06-30T20:31:52Z" finished-at="2021-06-30T20:31:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PageTitleVerification -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="tearDown" is-config="true" duration-ms="732" started-at="2021-06-30T19:41:32Z" finished-at="2021-06-30T19:41:33Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="tearDown" is-config="true" duration-ms="942" started-at="2021-06-30T20:31:53Z" finished-at="2021-06-30T20:31:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="setUp" is-config="true" duration-ms="12601" started-at="2021-06-30T19:44:30Z" finished-at="2021-06-30T19:44:42Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="setUp" is-config="true" duration-ms="15139" started-at="2021-06-30T20:35:19Z" finished-at="2021-06-30T20:35:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginClick()[pri:2, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="loginClick" duration-ms="2217" started-at="2021-06-30T19:44:42Z" finished-at="2021-06-30T19:44:44Z">
+        <test-method status="PASS" signature="loginClick()[pri:2, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="loginClick" duration-ms="1269" started-at="2021-06-30T20:35:35Z" finished-at="2021-06-30T20:35:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginClick -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="tearDown" is-config="true" duration-ms="784" started-at="2021-06-30T19:44:45Z" finished-at="2021-06-30T19:44:46Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.HomePageTest@43d7741f]" name="tearDown" is-config="true" duration-ms="812" started-at="2021-06-30T20:35:36Z" finished-at="2021-06-30T20:35:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.amazone1.qa.testcases.HomePageTest -->
-      <class name="com.amazone1.qa.testcases.PaymentPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="setUp" is-config="true" duration-ms="50156" started-at="2021-06-30T19:40:01Z" finished-at="2021-06-30T19:40:51Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyHeadingTest()[pri:1, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="verifyHeadingTest" duration-ms="10119" started-at="2021-06-30T19:40:51Z" finished-at="2021-06-30T19:41:01Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyHeadingTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="tearDown" is-config="true" duration-ms="859" started-at="2021-06-30T19:41:01Z" finished-at="2021-06-30T19:41:02Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="setUp" is-config="true" duration-ms="53687" started-at="2021-06-30T19:42:53Z" finished-at="2021-06-30T19:43:47Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="paymentProcess()[pri:2, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="paymentProcess" duration-ms="16939" started-at="2021-06-30T19:43:47Z" finished-at="2021-06-30T19:44:04Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- paymentProcess -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="tearDown" is-config="true" duration-ms="1232" started-at="2021-06-30T19:44:04Z" finished-at="2021-06-30T19:44:05Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.amazone1.qa.testcases.PaymentPageTest -->
       <class name="com.amazone1.qa.testcases.SearchPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="setUp" is-config="true" duration-ms="20104" started-at="2021-06-30T19:39:36Z" finished-at="2021-06-30T19:39:56Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="setUp" is-config="true" duration-ms="23792" started-at="2021-06-30T20:29:43Z" finished-at="2021-06-30T20:30:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyPageTitle()[pri:1, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="verifyPageTitle" duration-ms="2667" started-at="2021-06-30T19:39:56Z" finished-at="2021-06-30T19:39:59Z">
+        <test-method status="PASS" signature="verifyPageTitle()[pri:1, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="verifyPageTitle" duration-ms="5304" started-at="2021-06-30T20:30:07Z" finished-at="2021-06-30T20:30:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyPageTitle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="tearDown" is-config="true" duration-ms="834" started-at="2021-06-30T19:40:00Z" finished-at="2021-06-30T19:40:01Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="tearDown" is-config="true" duration-ms="1091" started-at="2021-06-30T20:30:13Z" finished-at="2021-06-30T20:30:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="setUp" is-config="true" duration-ms="21110" started-at="2021-06-30T19:42:26Z" finished-at="2021-06-30T19:42:47Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="setUp" is-config="true" duration-ms="23918" started-at="2021-06-30T20:32:55Z" finished-at="2021-06-30T20:33:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="veifyUserName()[pri:2, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="veifyUserName" duration-ms="5100" started-at="2021-06-30T19:42:47Z" finished-at="2021-06-30T19:42:52Z">
+        <test-method status="PASS" signature="veifyUserName()[pri:2, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="veifyUserName" duration-ms="5626" started-at="2021-06-30T20:33:19Z" finished-at="2021-06-30T20:33:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- veifyUserName -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="tearDown" is-config="true" duration-ms="765" started-at="2021-06-30T19:42:53Z" finished-at="2021-06-30T19:42:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="tearDown" is-config="true" duration-ms="861" started-at="2021-06-30T20:33:26Z" finished-at="2021-06-30T20:33:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="setUp" is-config="true" duration-ms="21010" started-at="2021-06-30T19:45:34Z" finished-at="2021-06-30T19:45:55Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="setUp" is-config="true" duration-ms="29257" started-at="2021-06-30T20:36:38Z" finished-at="2021-06-30T20:37:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="searchItem()[pri:3, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="searchItem" duration-ms="22971" started-at="2021-06-30T19:45:55Z" finished-at="2021-06-30T19:46:18Z">
+        <test-method status="PASS" signature="searchItem()[pri:3, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="searchItem" duration-ms="26696" started-at="2021-06-30T20:37:07Z" finished-at="2021-06-30T20:37:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItem -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="tearDown" is-config="true" duration-ms="1250" started-at="2021-06-30T19:46:23Z" finished-at="2021-06-30T19:46:25Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.SearchPageTest@6366ebe0]" name="tearDown" is-config="true" duration-ms="1324" started-at="2021-06-30T20:37:38Z" finished-at="2021-06-30T20:37:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.amazone1.qa.testcases.SearchPageTest -->
+      <class name="com.amazone1.qa.testcases.PaymentPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="setUp" is-config="true" duration-ms="54774" started-at="2021-06-30T20:30:15Z" finished-at="2021-06-30T20:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHeadingTest()[pri:1, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="verifyHeadingTest" duration-ms="10131" started-at="2021-06-30T20:31:09Z" finished-at="2021-06-30T20:31:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeadingTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="tearDown" is-config="true" duration-ms="1152" started-at="2021-06-30T20:31:20Z" finished-at="2021-06-30T20:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="setUp" is-config="true" duration-ms="58619" started-at="2021-06-30T20:33:27Z" finished-at="2021-06-30T20:34:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="paymentProcess()[pri:2, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="paymentProcess" duration-ms="16378" started-at="2021-06-30T20:34:25Z" finished-at="2021-06-30T20:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentProcess -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazone1.qa.testcases.PaymentPageTest@44f75083]" name="tearDown" is-config="true" duration-ms="2935" started-at="2021-06-30T20:34:43Z" finished-at="2021-06-30T20:34:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazone1.qa.testcases.PaymentPageTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
